@@ -1,0 +1,9 @@
+com\usa\reto\Model\Cloud.class
+com\usa\reto\Repository\Crud\RepositoryCrudReservation.class
+com\usa\reto\Model\Reservation.class
+com\usa\reto\Model\Category.class
+com\usa\reto\Model\Admin.class
+com\usa\reto\Model\Client.class
+com\usa\reto\Repository\Crud\RepositoryCrudAdmin.class
+com\usa\reto\Repository\RepositoryAdmin.class
+com\usa\reto\Model\Message.class
